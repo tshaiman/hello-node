@@ -13,7 +13,7 @@
   "dependencies": {
     "config": "^3.0.1",
     "express": "^4.16.4",
-    "js-yaml": "^3.12.2",
+    "js-yaml": "^3.13.1",
     "mysql": "^2.16.0"
   },
   "devDependencies": {
