@@ -11,10 +11,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "config": "^3.0.1",
-    "express": "^4.16.4",
-    "js-yaml": "^3.12.2",
-    "mysql": "^2.16.0"
+    "config": "^3.3.7",
+    "express": "^4.17.3",
+    "js-yaml": "^4.1.0",
+    "mysql": "^2.18.1"
+  },
+  "engines": {
+    "node": "12.x"
   },
   "devDependencies": {
     "nodemon": "^1.18.9"
